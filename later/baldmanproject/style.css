@@ -1,0 +1,30 @@
+body {
+  font-family: helvetica;
+  color: #212121;
+}
+
+.nav
+{
+  width: 100px;
+}
+.title {
+  padding-bottom: 40px;
+}
+
+a {
+  color: inherit;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: #25fa00;
+}
+.content {
+  
+  padding-left: 200px;
+}
+.content img {
+  width: 40%;
+}

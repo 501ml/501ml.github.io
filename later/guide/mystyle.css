@@ -1,0 +1,57 @@
+body {
+  font-family: helvetica;
+}
+p{
+  font-weight: bold;
+}
+.downloadebooks {
+  width: 150px;
+  padding-right: 40px;
+  float: left;
+  color: #fa87d4;
+}
+.downloadebooks p {
+  color: green;
+}
+a {
+  text-decoration: none;
+  color:inherit;
+}
+a:hover {
+  color: blue;
+}
+a:active {
+  color: yellow;
+
+}
+
+.movies {
+  padding-right: 40px;
+  float: left;
+  color: #fa87d4;
+}
+.movies p {
+  color: #4287f5;
+}
+
+
+.soundeffects {
+  width: 150px;
+  padding-right: 40px;
+  float: left;
+  color: #fa87d4;
+}
+.soundeffects p {
+  color: #0cccb6;
+}
+
+.tools {
+  width: 150px;
+  padding-right: 40px;
+  float: left;
+  color: #fa87d4;
+}
+
+.tools p {
+  color: #d400ff;
+}

@@ -1,0 +1,6 @@
+{
+  "require": {
+    "hedii/zotero-api": "^1.1",
+    "adibaba/zotero-api-client": "^0.0.2"
+  }
+}

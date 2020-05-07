@@ -1,0 +1,10 @@
+body {
+  font-family: helvetica;
+}
+.time p {
+  color: #32a852;
+}
+.content p {
+  color: #a31ca1;
+  margin-bottom: 14px;
+}

@@ -1,15 +1,9 @@
 var data = {
   "works":[
 
-  
 
-    {
 
-      "v_titles": "jiamin zhangs",
-      "v_description": "Jiamin Zhang Happy Improvisation112018",
-
-      "v_src":"https://player.vimeo.com/video/299705175"
-    },
+    
 
     {
 

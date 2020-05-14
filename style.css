@@ -27,8 +27,10 @@ body {
   float: right;
 }
 
-.video_works {
+
+.video_works{
   width: 100%;
+  height: auto;
 }
 
 .pic_photos img {

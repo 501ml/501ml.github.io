@@ -2,6 +2,23 @@ var data = {
   "works":[
     {
 
+           "v_titles": "jochemjochemjochemjochem",
+           "v_description": "bgfshGHFUElwahuifleAHFUI",
+
+           "v_src":"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/800045863&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+         },
+
+
+    {
+
+           "v_titles": "Kasper Quaink",
+           "v_description": "Observing infrastructure. digital. social. through digital through social. seeing infrastructure as it is. just a loop of things repeating itself day after day. ",
+
+           "v_src":"https://player.vimeo.com/video/408772574"
+         },
+
+    {
+
       "v_titles": "xiaoyuan gao",
       "v_description": "m-e-m-o-r-y",
 

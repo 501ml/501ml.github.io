@@ -31,6 +31,10 @@ body {
   width: 100%;
 }
 
+.pic_photos img {
+  background-color: white;
+}
+
 .video_titiles {
   font-size: 100px;
   margin-top: 0;

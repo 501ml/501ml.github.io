@@ -1,10 +1,6 @@
 var data = {
   "works":[
 
-
-
-    
-
     {
 
       "v_titles": "cara wittenhaus",

@@ -1,5 +1,5 @@
 @font-face {
-  font-family: Sr_twigs;
+  font-family: a-Regular;
   src: url(a-Regular.otf);
 }
 body {
@@ -106,6 +106,16 @@ img {
   -moz-box-shadow: 4px 28px 44px 0px rgba(0,196,255,1);
   box-shadow: 4px 28px 44px 0px rgba(0,196,255,1);
   border-radius: 5px;
+}
+.bellybutton img{
+  top: 100px;
+  right: 50px;
+  box-shadow: none;
+  border-radius: none;
+  bottom: 2px;
+  margin-left: 90px;
+  width: 10%;
+  position: fixed;
 }
 .submit {
   margin-right: 2px;

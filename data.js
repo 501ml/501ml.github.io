@@ -1,5 +1,23 @@
 var data = {
   "works":[
+
+    {
+
+        "v_titles": "suze vonk",
+        "v_description": "I created a research “Destroying the bubble”, I am looking for new ways of moving and making sounds. I hope you enjoy it! :) ",
+
+        "v_src":"https://www.youtube.com/embed/6fzTpt-RR6k"
+      },
+
+      {
+
+          "v_titles": "lata",
+          "v_description": "a webzine about a crazy place for drink tea in a forest ",
+
+          "v_src":"https://lata.neocities.org/coihue.html"
+        },
+
+
     {
 
            "v_titles": "jochemjochemjochemjochem",

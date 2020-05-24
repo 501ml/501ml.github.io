@@ -1,13 +1,22 @@
-body {
+@media (orientation: portrait) {
+  body {
+    flex-direction: column;
+    font-family: helvetica;
+    background-image: url(i/1.gif);
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+/* body {
   font-family: helvetica;
   background-image: url(i/1.gif);
-  /* Full height */
   height: 100%;
-  /* Center and scale the image nicely */
   background-repeat: no-repeat;
   background-size: cover;
-}
-
+}*/
 .intro {
   width: 60%;
   overflow: hidden;

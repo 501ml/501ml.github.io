@@ -4,7 +4,7 @@ body {
     /* Full height */
     height: 100%;
     /* Center and scale the image nicely */
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
   }
 /* body {
@@ -15,8 +15,7 @@ body {
   background-size: cover;
 }*/
 .intro {
-  width: 60%;
-  overflow: hidden;
+  width: 70vw;
 }
 .intro p:nth-of-type(1) {
   font-weight: lighter;
@@ -104,9 +103,9 @@ body {
   border-radius: 80px;
   text-align: center;
   background-color: red;
-  width: 800px;
-  height: 100px;
-  position: absolute;
+  width: 100vw;
+  height: 10vh;
+  position: fixed;
   right:0;
   bottom: 0;
 }

@@ -1,0 +1,62 @@
+body {
+  font-family: helvetica;
+  background-image: url(i/1.gif);
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Q1 {
+  border-radius: 40px;
+  background-color: white;
+  color: black;
+  width: 40%;
+  margin-top: 100px;
+}
+.Q1 p{
+  padding: 10px 10px 20px 20px;
+  font-size: 40px;
+}
+
+a {
+  color: black;
+}
+
+.answers {
+  font-size: 100px;
+  float: right;
+}
+
+.answers a:nth-of-type(1) {
+ background-color: yellow;
+ border-radius: 40px;
+}
+.answers a:nth-of-type(2) {
+ background-color: red;
+ border-radius: 40px;
+}
+
+a {
+  text-decoration: none;
+}
+a:before {
+  text-decoration: none;
+}
+
+a:active {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+
+}
+
+a:after {
+  color: blue;
+  text-decoration: none;
+}

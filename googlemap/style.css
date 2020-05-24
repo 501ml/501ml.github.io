@@ -1,0 +1,131 @@
+body {
+  font-family: helvetica;
+  background-image: url(i/1.gif);
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.intro {
+  width: 60%;
+  overflow: hidden;
+}
+.intro p:nth-of-type(1) {
+  font-weight: lighter;
+  font-style: italic;
+  opacity: 90%;
+  border-radius: 25px;
+  background-color: #06ff00;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 10px 10px 10px 10px;
+  font-size: 20px;
+  font-family: helvetica;
+  color: black;
+}
+
+.intro p:nth-of-type(2) {
+  font-weight: lighter;
+  opacity: 90%;
+  border-radius: 25px;
+  background-color: #06ff00;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 10px 10px 10px 10px;
+  font-size: 20px;
+  font-family: helvetica;
+  color: black;
+}
+
+.intro p:nth-of-type(3) {
+  font-weight: lighter;
+  font-style: italic;
+  opacity: 90%;
+  border-radius: 25px;
+  background-color: #06ff00;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 10px 10px 10px 10px;
+  font-size: 20px;
+  font-family: helvetica;
+  color: black;
+}
+
+.intro p:nth-of-type(4) {
+  font-weight: lighter;
+  opacity: 90%;
+  border-radius: 25px;
+  background-color: #06ff00;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 10px 10px 10px 10px;
+  font-size: 20px;
+  font-family: helvetica;
+  color: black;
+}
+.intro p:nth-of-type(5) {
+  font-weight: lighter;
+  font-style: italic;
+  opacity: 90%;
+  border-radius: 25px;
+  background-color: #06ff00;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 10px 10px 10px 10px;
+  font-size: 20px;
+  font-family: helvetica;
+  color: black;
+}
+
+.intro p:nth-of-type(6) {
+  font-weight: lighter;
+  opacity: 90%;
+  border-radius: 25px;
+  background-color: #06ff00;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 10px 10px 10px 10px;
+  font-size: 20px;
+  font-family: helvetica;
+  color: black;
+}
+
+.ok {
+  margin-top:100px;
+  padding-top: 20px;
+  border-radius: 80px;
+  text-align: center;
+  background-color: red;
+  width: 800px;
+  height: 100px;
+  position: absolute;
+  right:0;
+  bottom: 0;
+}
+.ok a {
+  font-size: 60px;
+}
+a {
+  text-decoration: none;
+}
+a:before {
+  text-decoration: none;
+}
+
+a:active {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+
+}
+
+a:after {
+  color: blue;
+  text-decoration: none;
+}

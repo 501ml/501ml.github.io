@@ -39,12 +39,14 @@ body {
 }
 
 .video_titiles {
+  font-style: italic;
   font-size: 70px;
   width: 50%;
   margin-top: 0;
   margin-bottom: 0;
 }
 .pic_titles {
+  font-style: italic;
   font-size: 70px;
   width: 50%;
   margin-top: 0;
@@ -123,7 +125,7 @@ img {
   border-radius: none;
   bottom: 2px;
   margin-left: 90px;
-  width: 10%;
+  width: 30%;
   position: fixed;
 }
 .submit {

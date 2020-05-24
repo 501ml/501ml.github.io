@@ -1,13 +1,12 @@
 body {
-  font-family: helvetica;
-  font-weight: lighter;
-  background-image: url(i/1.gif);
-  /* Full height */
-  height: 100%;
-  /* Center and scale the image nicely */
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+    font-family: helvetica;
+    background-image: url(i/1.gif);
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-repeat: repeat;
+    background-size: cover;
+  }
 
 .Q1 {
   border-radius: 40px;

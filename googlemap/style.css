@@ -1,6 +1,4 @@
-@media (orientation: portrait) {
-  body {
-    flex-direction: column;
+body {
     font-family: helvetica;
     background-image: url(i/1.gif);
     /* Full height */
@@ -9,7 +7,6 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
-}
 /* body {
   font-family: helvetica;
   background-image: url(i/1.gif);

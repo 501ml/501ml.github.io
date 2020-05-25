@@ -67,9 +67,13 @@ body {
   margin-bottom: 0;
 
 }
+
 .video_descriptions {
+  /*border-radius: 10px;
+  background-color: white;
+  padding: 20px;*/
   margin-top: 0;
-  font-size: 20px;
+  font-size: 25px;
   float: right;
   width: 400px;
   text-align: left;
@@ -77,8 +81,11 @@ body {
 }
 
 .pic_descriptions {
+  /*border-radius: 10px;
+  background-color: white;
+  padding: 20px;*/
   margin-top: 0;
-  font-size: 20px;
+  font-size: 25px;
   float: right;
   width: 400px;
   text-align: left;

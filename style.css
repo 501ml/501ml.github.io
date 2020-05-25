@@ -37,19 +37,19 @@ body {
   float: right;
 }
 
-iframe {
-  border-radius: 25px;
-}
 .video_works{
   border-radius: 25px;
   width: 100%;
   height: auto;
 }
 
-.video_works iframe{
+.video_works iframe {
   border-radius: 25px;
 }
 
+.video_frames {
+  border-radius: 25px;
+}
 .pic_photos img {
   border-radius: 25px;
   background-color: white;

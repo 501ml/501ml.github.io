@@ -159,3 +159,7 @@ img {
   position: fixed;
   bottom: 0;
 }
+
+.iframe {
+  border-radius: 20px;
+}

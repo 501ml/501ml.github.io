@@ -46,6 +46,12 @@ iframe {
   height: auto;
 }
 
+.video_works iframe{
+  border-radius: 25px;
+  width: 100%;
+  height: auto;
+}
+
 .pic_photos img {
   border-radius: 25px;
   background-color: white;

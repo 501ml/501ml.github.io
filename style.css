@@ -1,4 +1,7 @@
-
+.titile p {
+  font-size: 20px;
+  font-style: italic;
+}
 body {
   font-family: helvetica;
   font-weight: lighter;
@@ -19,11 +22,21 @@ body {
 }
 
 .participants {
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 30px;
+  background: rgb(255,244,0);
+  background: linear-gradient(180deg, rgba(255,244,0,1) 0%, rgba(255,255,255,1) 100%);
   color: blue;
   font-size: 30px;
   float: left;
 }
 .info {
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 30px;
+  background: rgb(255,244,0);
+  background: linear-gradient(180deg, rgba(255,244,0,1) 0%, rgba(255,255,255,1) 100%);
   font-size: 30px;
   float: right;
 }

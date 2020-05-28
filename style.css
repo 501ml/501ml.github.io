@@ -16,7 +16,17 @@ body {
   margin-bottom: 30px;
   color: blue;
 }
+.events {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 60px;
+  background: rgb(255,244,0);
+  background: linear-gradient(180deg, rgba(255,244,0,1) 0%, rgba(255,255,255,1) 100%);
+  color: blue;
+  font-size: 60px;
+  float: right;
 
+}
 .participants {
   padding: 10px;
   margin-bottom: 10px;

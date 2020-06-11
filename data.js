@@ -96,6 +96,19 @@ var data = {
 
 var picsdata = {
   "photos":[
+    {
+
+      "p_images": "candela.jpg",
+      "p_descriptions": "postcards to criticize invasive tourism - http://candelalejarraga.com",
+      "p_titles": "candela lejarraga"
+    },
+
+    {
+
+      "p_images": "windowspaint.jpg",
+      "p_descriptions": "!",
+      "p_titles": "xiaoyuan gao"
+    },
 
     {
 

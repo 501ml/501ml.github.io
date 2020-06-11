@@ -1,5 +1,5 @@
 var main, content
-var urlPad = 'https://annuel.framapad.org/p/pad2html' 
+var urlPad = 'https://annuel2.framapad.org/p/events-9h6y' 
 
 function getPad(padUrl) {
 	var xhr = new XMLHttpRequest()
@@ -13,7 +13,7 @@ function getPad(padUrl) {
 				console.log(xhr)
 				var converter = new showdown.Converter()
 				var html = converter.makeHtml(xhr.responseText);
-				main.innerHTML = html 
+				main.innerHTML = html
 			} else {
 				console.log('Error: ' + xhr.status)
 			}

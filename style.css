@@ -153,7 +153,11 @@ img {
   box-shadow: 4px 28px 44px 0px rgba(0,196,255,1);
   border-radius: 20px;
 }
-.bellybutton img{
+#bellybutton {
+  position: absolute;
+  z-index: 9;
+}
+#bellybutton img{
   top: 100px;
   right: 50px;
   box-shadow: none;
@@ -161,7 +165,6 @@ img {
   bottom: 2px;
   margin-left: 90px;
   width: 30%;
-  position: fixed;
 }
 .submit {
   margin-right: 2px;

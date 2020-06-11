@@ -11,7 +11,20 @@ img {
   border-width:1px;
   border-radius: 30px;
 }
+p em:nth-of-type(3) {
+  color:black;
+  font-size: 30px;
+  border-radius: 30px;
+  background-color: red;
 
+}
+p em:nth-of-type(2) {
+  color:black;
+  font-size: 30px;
+  border-radius: 30px;
+  background-color: lightgreen;
+
+}
 p em {
   color:black;
   font-size: 30px;
@@ -47,7 +60,7 @@ p a {
   color:black;
   font-size: 30px;
   border-radius: 30px;
-  background-color: lightpink;
+  background-color: blue;
 }
 a:link {
   color: black;

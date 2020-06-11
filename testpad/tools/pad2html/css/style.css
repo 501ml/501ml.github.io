@@ -1,9 +1,11 @@
 body {
+  font-family: helvetica;
+  font-weight: lighter;
   color: red;
 }
 
 img {
-  width: 50%;
+  width: 20%;
   border-color: blue;
   border-style: solid;
   border-width:1px;
@@ -14,7 +16,7 @@ p em {
   color:black;
   font-size: 30px;
   border-radius: 30px;
-  background-color: lightgreen;
+  background-color: grey;
 }
 
 #events {
@@ -22,4 +24,50 @@ p em {
   font-style: italic;
   font-weight: lighter;
   color: black;
+}
+
+.addevents {
+  margin-right: 2px;
+  padding-top: 20px;
+  width: 30%;
+  opacity: 0.9;
+  background: rgb(29,255,0);
+  background: linear-gradient(180deg, rgba(29,255,0,1) 0%, rgba(29,255,0,1) 35%, rgba(255,255,255,1) 100%);
+  border-radius: 100px;
+  text-align: center;
+  font-size: 50px;
+  color: red;
+  margin-top: 0px;
+  position: fixed;
+  float:right;
+  top: 0;
+}
+p a {
+  font-style: italic;
+  color:black;
+  font-size: 30px;
+  border-radius: 30px;
+  background-color: lightpink;
+}
+a:link {
+  color: black;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ae00ff;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+	text-decoration: none;
 }

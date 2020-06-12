@@ -1,41 +1,146 @@
 body {
+  background-color: grey;
+  font-size: 15px;
   font-family: helvetica;
   font-style: italic;
   font-weight: lighter;
 
 }
+.buttons {
+  margin-top: 100px;
+}
 .winter_1 {
-
-  margin-bottom: 20px;
+   float:left;
+   margin-left: 25px;
+   margin-right: 25px;
+   margin-bottom: 100px;
 }
 
 .winter_2 {
-
-  margin-bottom: 20px;
+   float:left;
+   margin-left: 25px;
+   margin-right: 25px;
+   margin-bottom: 100px;
 }
 
 .winter_3 {
+ float:left;
+ margin-left: 25px;
+ margin-right: 25px;
+ margin-bottom: 100px;
 
-  margin-bottom: 20px;
 }
 
 .winter_4 {
+ float:left;
+ margin-left: 25px;
+ margin-right: 25px;
+ margin-bottom: 100px;
 
-  margin-bottom: 20px;
 }
+
+.winter_5 {
+ float:left;
+ margin-left: 25px;
+ margin-right: 25px;
+ margin-bottom: 100px;
+
+}
+
+.winter_6 {
+ float:left;
+ margin-left: 25px;
+margin-right: 25px;
+ margin-bottom: 100px;
+
+}
+
+.winter_7 {
+ float:left;
+ margin-left: 25px;
+margin-right: 25px;
+ margin-bottom: 100px;
+
+}
+
+
+.winter_10 {
+ float:left;
+ margin-left: 25px;
+margin-right: 25px;
+ margin-bottom: 100px;
+
+}
+
+.winter_11 {
+ float:left;
+ margin-left: 25px;
+margin-right: 25px;
+ margin-bottom: 100px;
+
+}
+
+.winter_12 {
+ float:left;
+ margin-left: 25px;
+ margin-right: 25px;
+ margin-bottom: 100px;
+
+}
+
+
 .winter_1 a {
-  background-color: #32a852;
+  background-color: green;
   border-radius: 40px;
 }
 
 .winter_2 a {
+  background-color: blue;
+  border-radius: 40px;
+}
+.winter_3 a {
+  background-color: pink;
+  border-radius: 40px;
+}
+
+.winter_4 a {
+  background-color: yellow;
+  border-radius: 40px;
+}
+
+
+.winter_5 a {
+  background-color: purple;
+  border-radius: 40px;
+}
+
+.winter_6 a {
+  background-color: white;
+  border-radius: 40px;
+}
+
+.winter_7 a {
+  background-color: #32a852;
+  border-radius: 40px;
+}
+
+
+.winter_10 a {
   background-color: #00E6FF;
   border-radius: 40px;
 }
 
+.winter_11 a {
+  background-color: #32a852;
+  border-radius: 40px;
+}
+
+.winter_12 a {
+  background-color: #00E6FF;
+  border-radius: 40px;
+}
 a.snapchat {
   position: relative;
-  background: lightgrey;
 }
 
 a.snapchat img {
@@ -44,13 +149,14 @@ a.snapchat img {
   width: 400px;
   height: auto;
   left: 0;
-  top: -20px;
+  top: -10px;
   transition: opacity .5s, top .5s;
 }
 
 a.snapchat:hover img {
   opacity: 1;
-  top: 20px;
+  left:10px;
+  top: 200px;
 }
 
 a {
